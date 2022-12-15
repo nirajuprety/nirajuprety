@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **KrishiKarma**
 
-- 🌱 I’m currently learning **Laravel, React, dotNet**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **KrishiKarma**
 
