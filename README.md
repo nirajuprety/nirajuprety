@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **KrishiKarma**
+- 🔭 I’m currently working on **TechnoFex**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ASP.NET**
 
-- 👯 I’m looking to collaborate on **KrishiKarma**
+<!-- - 👯 I’m looking to collaborate on **KrishiKarma** -->
 
-- 💬 Ask me about **php, ASP.NET, python**
+- 💬 Ask me about **MERN Stack, ASP.NET, Java**
 
 - 📫 How to reach me **nerajupreti@gmail.com**
 
